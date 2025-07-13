@@ -196,9 +196,9 @@ a {
     border-radius: 25px;
     box-shadow: inset 0px 1px 6px #cccc;
 }
-.fixed-top {
-    /* position: relative !important; */
-}
+/* .fixed-top {
+    position: relative !important;
+} */
 .navbar>.container-fluid {
     justify-content: center;
 }
